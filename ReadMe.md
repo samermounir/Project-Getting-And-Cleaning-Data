@@ -3,8 +3,8 @@
 ####List of the files in the Repository:
 	a- run_analyis.R, Project Code developed
 	b- average_data.txt, this is the desired output from the project
-	c- CodeBook.md, describes the variables, the data, and any transformations or work  performed to clean up the data
-Explaination how to run each of these files will follow
+	c- CodeBook.md, describes the variables, the data, and any transformations or work  performed 
+	to clean up the data Explaination how to run each of these files will follow
 
 #### a- run_analyis.R
 	Following are the needed steps to run the needed script to obtain the desired output:
@@ -12,14 +12,14 @@ Explaination how to run each of these files will follow
 	 <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip> 
 	2- unzip the data to a new folder "UCI HAR Dataset"
 	3- set your R working directory as the parent directory of "UCI HAR Dataset" folder
-	3- Run the run_analyis.R
- 	4 - Two files will be created "average_data.txt" which is the desired project output, 
+	4- Run the run_analyis.R
+ 	5 - Two files will be created "average_data.txt" which is the desired project output, 
 	"merged_data.txt" which is the dataset created at step 4 and used for review
 
 
 
-#### b- average_data.txt, this is the desired output from the project which is a tab delimeted file that can be easily opened by EXCEL ,
-	 even it is readable by Notepad,data description is found at the Codebook.md
+#### b- average_data.txt, this is the desired output from the project which is a tab delimeted file
+	 that can be easily opened by EXCEL , even it is readable by Notepad,data description is found at the Codebook.md
 
 
 
