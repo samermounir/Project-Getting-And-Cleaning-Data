@@ -18,8 +18,7 @@
 
 
 
-#### b- average_data.txt, this is the desired output from the project which is a tab delimeted file
-	 that can be easily opened by EXCEL , even it is readable by Notepad,data description is found at the Codebook.md
+#### b- average_data.txt, this is the desired output from the project which is a tab delimeted file that can be easily opened by EXCEL , even it is readable by Notepad,data description is found at the Codebook.md
 
 
 
